@@ -66,3 +66,5 @@ https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/hea
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/snort_ipfilter.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_hesperbot.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_dircrypt.ipset
+https://isc.sans.edu/api/threatlist/shodan/shodan.txt
+https://www.binarydefense.com/banlist.txt
