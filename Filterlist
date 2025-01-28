@@ -72,3 +72,6 @@ https://blacklist.3coresec.net/lists/all.txt
 https://raw.githubusercontent.com/borestad/blocklist-abuseipdb/main/abuseipdb-s100-14d.ipv4
 https://raw.githubusercontent.com/bitwire-it/ipsum-clean/main/ipsum.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestips.txt
+https://www.projecthoneypot.org/list_of_ips.php?t=d&rss=1
+https://danger.rulez.sk/projects/bruteforceblocker/blist.php
+https://api.blocklist.de/getlast.php?time=3600
