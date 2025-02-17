@@ -97,3 +97,10 @@ https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Databas
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_malware_http.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_malware_irc.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_malware_dns.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/cleanmx_viruses.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/malwaredomainlist.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_malware.ipset
+https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/abuseipdb_blacklist_ip_score_100.txt
+https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/all_blacklist.txt
+https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/neucert_blacklist_ip.txt
+https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
