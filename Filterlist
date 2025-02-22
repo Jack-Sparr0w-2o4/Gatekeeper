@@ -69,7 +69,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bam
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_hesperbot.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_dircrypt.ipset
 https://www.binarydefense.com/banlist.txt
-https://blacklist.3coresec.net/lists/all.txt
 https://raw.githubusercontent.com/bitwire-it/ipsum-clean/main/ipsum.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestips.txt
 https://api.blocklist.de/getlast.php?time=3600
@@ -109,3 +108,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/fir
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_sprint.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_att.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/haley_ssh.ipset
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/cleanmx_phishing.ipset
+https://raw.githubusercontent.com/tigthor/NSA-CIA-Blocklist/refs/heads/main/HOSTS/Super%20Ranges.txt
+https://blacklist.3coresec.net/lists/all.txt
