@@ -153,6 +153,14 @@ https://lists.blocklist.de/lists/bruteforcelogin.txt
 https://lists.blocklist.de/lists/bots.txt
 https://lists.blocklist.de/lists/apache.txt
 https://iplists.firehol.org/files/gofferje_sip.netset
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Internal/Filters/IPs/Malware
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Internal/Filters/IPs/Adult
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Internal/Filters/IPs/Additional
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Internal/Filters/IPs/Tracking
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Internal/Filters/IPs/Scam
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Internal/Filters/IPs/Parked
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Other/Ads
+https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Other/Mine
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Canada-Spy-Blocklist/refs/heads/main/list
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Filter-Hacking/refs/heads/main/List
 https://blacklist.3coresec.net/lists/all.txt
