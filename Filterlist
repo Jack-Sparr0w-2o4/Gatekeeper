@@ -62,7 +62,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/myi
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://rules.emergingthreats.net/blockrules/compromised-ips.txt
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_rootservers.txt
-https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_pfblockerng.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/snort_ipfilter.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_c2.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bambenek_hesperbot.ipset
@@ -174,3 +173,4 @@ https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Education/refs/heads/main/Fil
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Canada-Spy-Blocklist/refs/heads/main/list
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/NSA-CIA-Block/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/NSA-Extra/refs/heads/main/Filter
+https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Military-Blocks/refs/heads/main/Filter
