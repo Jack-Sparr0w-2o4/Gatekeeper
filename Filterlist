@@ -70,7 +70,6 @@ https://www.binarydefense.com/banlist.txt
 https://raw.githubusercontent.com/bitwire-it/ipsum-clean/main/ipsum.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestips.txt
 https://api.blocklist.de/getlast.php?time=3600
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/refs/heads/master/ips/ips0.list
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_webclient.netset
 https://raw.githubusercontent.com/tg12/bad_packets_blocklist/master/bad_packets_list.txt
 https://lists.blocklist.de/lists/apache.txt
