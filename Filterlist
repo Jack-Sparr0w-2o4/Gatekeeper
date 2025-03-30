@@ -97,7 +97,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/mal
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/urandomusto_malware.ipset
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/abuseipdb_blacklist_ip_score_100.txt
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/all_blacklist.txt
-https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/neucert_blacklist_ip.txt
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/darklist_de.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_1d.netset
