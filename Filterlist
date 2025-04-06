@@ -30,7 +30,6 @@ https://sigs.interserver.net/iprbl.txt
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
-https://voipbl.org/update
 https://cinsscore.com/list/ci-badguys.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/OFACSanctioned.txt
 https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/main/ips.txt
@@ -169,3 +168,4 @@ https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Bogon/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Bogon-Extra/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Shadow-Clean/refs/heads/main/Filter
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/bbcan177_ms1.netset
+https://voipbl.org/update
