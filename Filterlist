@@ -34,7 +34,6 @@ https://cinsscore.com/list/ci-badguys.txt
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/OFACSanctioned.txt
 https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/main/ips.txt
 https://raw.githubusercontent.com/securityscorecard/SSC-Threat-Intel-IoCs/refs/heads/master/KillNet-DDoS-Blocklist/ipblocklist.txt
-https://www.neblink.net/blocklist/KnownScanners.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/yoyo_adservers.ipset
 https://www.neblink.net/blocklist/IP-Blocklist-clean.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/uscert_hidden_cobra.ipset
