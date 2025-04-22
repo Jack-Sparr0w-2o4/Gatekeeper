@@ -85,8 +85,6 @@ https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Databas
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/php_harvesters.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/php_harvesters_7d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/php_harvesters_30d.ipset
-https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/zeus.ipset
-https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/zeus_badips.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_malware_http.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_malware_irc.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/nt_malware_dns.ipset
