@@ -133,6 +133,7 @@ https://iplists.firehol.org/files/nt_malware_irc.ipset
 https://iplists.firehol.org/files/nt_malware_dns.ipset
 https://iplists.firehol.org/files/bruteforceblocker.ipset
 https://iplists.firehol.org/files/bbcan177_ms1.netset
+https://iplists.firehol.org/files/bbcan177_ms3.netset
 https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://iplists.firehol.org/files/sslbl.ipset
 https://iplists.firehol.org/files/urandomusto_dns.ipset
