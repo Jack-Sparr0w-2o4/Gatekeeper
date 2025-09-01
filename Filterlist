@@ -118,6 +118,7 @@ https://raw.githubusercontent.com/Jack-Sparr0w-2o4/NSA-CIA-Block/refs/heads/main
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/NSA-Extra/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Hacker/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Bogon/refs/heads/main/Filter
+https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Bogon-Extra/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/cruzit-web-attacks/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Shadow-Clean/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Block-NSA-Hard/refs/heads/main/Filter
@@ -161,6 +162,8 @@ https://iplists.firehol.org/files/normshield_all_wormscan.ipset
 https://iplists.firehol.org/files/normshield_all_suspicious.ipset
 https://iplists.firehol.org/files/haley_ssh.ipset
 https://iplists.firehol.org/files/voipbl.netset
+https://iplists.firehol.org/files/firehol_abusers_1d.netset
+https://iplists.firehol.org/files/firehol_abusers_30d.netset
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/sip.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/compromised-ips.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/cloudzy.txt
