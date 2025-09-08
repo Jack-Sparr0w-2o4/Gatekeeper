@@ -83,7 +83,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/fir
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_30d.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_sprint.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_att.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level4.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_ssh.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de_sip.ipset
@@ -124,6 +123,7 @@ https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Shadow-Clean/refs/heads/main/
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Block-NSA-Hard/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/CIA-Super-Range/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/QRadar/refs/heads/main/Filter
+https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Jack-MOD-Firehol-Level-4/refs/heads/main/Filterlist
 https://iplists.firehol.org/files/uscert_hidden_cobra.ipset
 https://iplists.firehol.org/files/talosintel_ipfilter.ipset
 https://iplists.firehol.org/files/cleanmx_viruses.ipset
