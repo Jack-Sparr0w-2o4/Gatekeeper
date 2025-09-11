@@ -79,8 +79,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/php
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/php_harvesters_7d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/php_harvesters_30d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/darklist_de.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_1d.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_abusers_30d.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_sprint.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/iblocklist_isp_att.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/blocklist_de.ipset
