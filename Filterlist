@@ -67,8 +67,6 @@ https://raw.githubusercontent.com/theiren46/blocklist-ipsets/refs/heads/master/s
 https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/php_dictionary.ipset
 https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/php_dictionary_7d.ipset
 https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/php_dictionary_30d.ipset
-https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/zeus.ipset
-https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/zeus_badips.ipset
 https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/proxyspy.ipset
 https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/proxyspy_7d.ipset
 https://raw.githubusercontent.com/moimran/blacklist-IP/refs/heads/master/Database/files/proxyspy_30d.ipset
@@ -169,7 +167,6 @@ https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Cobaltstrike_ips/refs/heads/m
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/rutgers.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/drb-ra-verified.txt
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/sip.txt
-https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/compromised-ips.txt
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Jack-MOD-Firehol-Level-4/refs/heads/main/Filterlist
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
 https://voipbl.org/update
