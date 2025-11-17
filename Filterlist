@@ -46,8 +46,6 @@ https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Malware/
 https://secureupdates.checkpoint.com/IP-list/TOR.txt
 https://raw.githubusercontent.com/borestad/firehol-mirror/main/vxvault.ipset
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/StateSponsorsOfTerrorism.txt
-https://raw.githubusercontent.com/borestad/firehol-mirror/main/xroxy.ipset
-https://raw.githubusercontent.com/borestad/firehol-mirror/main/cleantalk_new_7d.ipset
 https://raw.githubusercontent.com/borestad/firehol-mirror/main/botscout.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/darklist_de.netset
 https://lists.blocklist.de/lists/strongips.txt
@@ -153,7 +151,6 @@ https://iplists.firehol.org/files/normshield_all_wormscan.ipset
 https://iplists.firehol.org/files/normshield_all_suspicious.ipset
 https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_pfblockerng.txt
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Asus-Router-Fix/refs/heads/main/Filter
-https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Epic-Games-Trackers/refs/heads/main/Filterlist
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Slug-Heads/refs/heads/main/I-spike-them
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Ramit-Clean/refs/heads/main/Ramit
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/QRadar/refs/heads/main/Filter
