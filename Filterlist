@@ -15,7 +15,6 @@ https://iplists.firehol.org/files/et_tor.ipset
 https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
-https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level4.netset
 https://iplists.firehol.org/files/greensnow.ipset
 https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
