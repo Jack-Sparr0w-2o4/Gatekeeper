@@ -190,6 +190,8 @@ https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/head
 https://raw.githubusercontent.com/Naunter/BT_BlockLists/refs/heads/master/list_1.txt
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
 https://iplists.firehol.org/files/gofferje_sip.netset
+https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
+https://lists.blocklist.de/lists/all.txt
 https://iplists.firehol.org/files/haley_ssh.ipset
 https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/refs/heads/master/cps-collected-iocs.txt
 https://voipbl.org/update
