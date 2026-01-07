@@ -190,6 +190,10 @@ https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/head
 https://raw.githubusercontent.com/Naunter/BT_BlockLists/refs/heads/master/list_1.txt
 https://raw.githubusercontent.com/LittleJake/ip-blacklist/refs/heads/main/ustc_blacklist_ip.txt
 https://iplists.firehol.org/files/gofferje_sip.netset
+https://api.greynoise.io/v3/tags/4454bcc7-d416-4bc9-8e85-e860c82369c2/ips?format=txt&token=QQbXBl9iSxWfBjvqAgNodg
+https://api.greynoise.io/v3/tags/f620e81c-eaf4-477f-8bc4-ec94ca672615/ips?format=txt&token=iCo1cIG0SvyJdkEozInOA
+https://api.greynoise.io/v3/tags/537cee16-c4a9-45cd-baf1-75963ab7bdd2/ips?format=txt&token=QWjWOA80SqqYzwKWVB8Q
+https://malware-filter.gitlab.io/malware-filter/botnet-filter.txt
 https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
 https://lists.blocklist.de/lists/all.txt
 https://iplists.firehol.org/files/haley_ssh.ipset
