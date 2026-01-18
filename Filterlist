@@ -44,8 +44,8 @@ https://raw.githubusercontent.com/ShadowWhisperer/IPs/refs/heads/master/Malware/
 https://secureupdates.checkpoint.com/IP-list/TOR.txt
 https://raw.githubusercontent.com/borestad/firehol-mirror/main/vxvault.ipset
 https://raw.githubusercontent.com/HotCakeX/Official-IANA-IP-blocks/refs/heads/main/Curated-Lists/StateSponsorsOfTerrorism.txt
-https://raw.githubusercontent.com/borestad/firehol-mirror/main/xroxy.ipset
-https://raw.githubusercontent.com/borestad/firehol-mirror/main/cleantalk_new_7d.ipset
+https://iplists.firehol.org/files/xroxy_7d.ipset
+https://iplists.firehol.org/files/cleantalk_updated_7d.ipset
 https://raw.githubusercontent.com/borestad/firehol-mirror/main/botscout.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/darklist_de.netset
 https://lists.blocklist.de/lists/strongips.txt
@@ -189,7 +189,7 @@ https://spydisec.com/medium_confidence_unlimited.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/gpf_comics.ipset
 https://raw.githubusercontent.com/montysecurity/C2-Tracker/refs/heads/main/data/all.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/cta_cryptowall.ipset
-https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Canada-DDos-Fix/refs/heads/main/Fast-as-!%40%23%24-Boy-Filter
+https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Fast-ASF-Canada/refs/heads/main/Filter
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Worst-Game-Trackers/refs/heads/main/Filterlist
 https://api.greynoise.io/v3/tags/4454bcc7-d416-4bc9-8e85-e860c82369c2/ips?format=txt&token=QQbXBl9iSxWfBjvqAgNodg
 https://api.greynoise.io/v3/tags/f620e81c-eaf4-477f-8bc4-ec94ca672615/ips?format=txt&token=iCo1cIG0SvyJdkEozInOA
