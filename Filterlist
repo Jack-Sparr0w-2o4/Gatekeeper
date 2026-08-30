@@ -43,7 +43,6 @@ https://iplists.firehol.org/files/snort_ipfilter.ipset
 https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/refs/heads/main/global-anti-scam-org-scam-ips.txt
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Neblink-Net/refs/heads/main/Filter-Neblink
 https://raw.githubusercontent.com/Jack-Sparr0w-2o4/America-Spy-Agency/refs/heads/main/Filter-US-SPY
-https://raw.githubusercontent.com/Jack-Sparr0w-2o4/Canada-Spy-Agency/refs/heads/main/Canada-Spy-Gov
-https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Bad-IP/bad-ip-fail2ban
-https://sigs.interserver.net/ip.txt
+https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_pfblockerng.txt
+https://raw.githubusercontent.com/ehindiayleau/BlacklistMIL-pfBlockerNG/refs/heads/master/blacklistmil_rootservers.txt
 https://voipbl.org/update
